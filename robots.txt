@@ -1,4 +1,0 @@
-User-agent: *
-Allow: /
-
-Sitemap: https://janhruska-git.github.io/topenarstvi-hruska/sitemap.xml
